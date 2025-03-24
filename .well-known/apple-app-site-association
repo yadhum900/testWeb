@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2APMGKW63H.com.SuccessFactors.SuccessFactorsD",
+        "paths": [ "/test_app/*" ]
+      }
+    ]
+  },
+  "appclips": {
+    "details": [
+      {
+        "appID": "2APMGKW63H.com.SuccessFactors.SuccessFactorsD.Clip",
+        "paths": [ "/promo" ]
+      }
+    ]
+  }
+}
